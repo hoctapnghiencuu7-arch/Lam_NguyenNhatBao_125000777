@@ -264,10 +264,10 @@ section {
 
 .hero h1 {
     margin-bottom: 22px;
-    font-size: clamp(38px, 4.5vw, 64px);
+    font-size: clamp(34px, 4vw, 56px);
     font-weight: 800;
-    line-height: 1.15;
-    letter-spacing: -1.8px;
+    line-height: 1.25;
+    letter-spacing: -1px;
 }
 
 .hero h1 span {
